@@ -1,0 +1,1 @@
+{"name":"Local: 10799","url":"c:\\baekjoon\\10799.cpp","tests":[{"id":1722146947789,"input":"()(((()())(())()))(())","output":"17"},{"id":1722146961724,"input":"(((()(()()))(())()))(()())","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\baekjoon\\10799.cpp","group":"local","local":true}

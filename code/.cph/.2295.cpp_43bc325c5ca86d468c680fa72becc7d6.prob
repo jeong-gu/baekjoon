@@ -1,0 +1,1 @@
+{"name":"Local: 2295","url":"c:\\baekjoon\\code\\2295.cpp","tests":[{"id":1727624078133,"input":"5\n2\n3\n5\n10\n18","output":"18"},{"id":1727624478202,"input":"10\n2\n3\n9\n10\n15\n91\n7\n5\n25\n1","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\baekjoon\\code\\2295.cpp","group":"local","local":true}

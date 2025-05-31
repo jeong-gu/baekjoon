@@ -1,0 +1,1 @@
+{"name":"Local: 16401","url":"c:\\baekjoon\\code\\16401.cpp","tests":[{"id":1727670550320,"input":"3 10\n1 2 3 4 5 6 7 8 9 10","output":"8"},{"id":1727670558367,"input":"4 3\n10 10 15","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\baekjoon\\code\\16401.cpp","group":"local","local":true}

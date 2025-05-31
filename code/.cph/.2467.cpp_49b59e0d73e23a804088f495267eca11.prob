@@ -1,0 +1,1 @@
+{"name":"Local: 2467","url":"c:\\baekjoon\\code\\2467.cpp","tests":[{"id":1727934204043,"input":"5\n-99 -2 -1 4 98","output":"-99 98"},{"id":1727934209164,"input":"4\n-100 -2 -1 103","output":"-2 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\baekjoon\\code\\2467.cpp","group":"local","local":true}
