@@ -1,1 +1,0 @@
-{"name":"Local: 1475","url":"c:\\baekjoon\\1475.cpp","tests":[{"id":1721388886007,"input":"9999","output":"2"},{"id":1721388893488,"input":"122","output":"2"},{"id":1721388898400,"input":"12635","output":"1"},{"id":1721388904261,"input":"888888","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\baekjoon\\1475.cpp","group":"local","local":true}

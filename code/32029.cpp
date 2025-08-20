@@ -7,7 +7,7 @@ int main(){
     int n,a,b; cin>>n>>a>>b;
     for(int i=0;i<n;i++) cin>>essay[i];
     sort(essay,essay+n);
-    for(int i=0;i<=n;i++){
+    for(int i=0;i<n;i++){
         int tm=0,cnt=0,j=0;
         if(i>0){
             for(j=0;j<n;j++){
